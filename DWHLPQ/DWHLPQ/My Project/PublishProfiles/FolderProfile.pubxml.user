@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\PUBLICAWWW</_PublishTargetUrl>
+    <History>True|2022-03-18T21:13:23.1904023Z;True|2022-03-18T15:08:40.8282112-06:00;True|2022-03-16T13:48:53.1440090-06:00;True|2022-03-16T12:40:38.8375870-06:00;True|2022-03-16T12:37:39.1045062-06:00;True|2022-03-16T12:32:24.3204798-06:00;True|2022-03-16T12:13:29.2989466-06:00;True|2022-03-16T12:10:45.8104230-06:00;True|2022-03-16T11:59:18.5414981-06:00;True|2022-03-16T11:51:38.6530589-06:00;True|2022-03-16T10:49:05.5254686-06:00;True|2022-03-16T10:45:29.8398546-06:00;True|2022-03-16T10:45:14.9787092-06:00;True|2022-03-16T10:39:46.4012876-06:00;True|2022-03-16T10:09:03.3115969-06:00;True|2022-03-16T10:08:38.8813622-06:00;True|2022-03-16T09:45:50.4890936-06:00;True|2022-03-14T16:00:17.7674152-06:00;True|2022-03-14T15:42:40.8550466-06:00;True|2022-03-14T14:25:26.7910893-06:00;True|2022-03-13T07:31:57.7787802-06:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ALTACHOFERES.aspx">
+      <publishTime>03/16/2022 11:30:09</publishTime>
+    </File>
+    <File Include="ALTAUNIDADES.aspx">
+      <publishTime>03/16/2022 11:34:06</publishTime>
+    </File>
+    <File Include="ALTAUSUARIOS.aspx">
+      <publishTime>03/16/2022 12:04:23</publishTime>
+    </File>
+    <File Include="bin/DWHLPQ.dll">
+      <publishTime>03/18/2022 15:08:33</publishTime>
+    </File>
+    <File Include="bin/DWHLPQ.pdb">
+      <publishTime>03/18/2022 15:08:33</publishTime>
+    </File>
+    <File Include="bin/DWHLPQ.xml">
+      <publishTime>03/18/2022 15:08:33</publishTime>
+    </File>
+    <File Include="defaultAdmin.aspx">
+      <publishTime>03/16/2022 13:48:35</publishTime>
+    </File>
+    <File Include="DWH_CHOFERES.aspx">
+      <publishTime>03/16/2022 11:43:51</publishTime>
+    </File>
+    <File Include="DWH_PEDIDOS_ATENDER.aspx">
+      <publishTime>03/18/2022 15:12:49</publishTime>
+    </File>
+    <File Include="DWH_PEDIDOS_ATENDER_LOGISTICA.aspx">
+      <publishTime>03/18/2022 15:13:12</publishTime>
+    </File>
+    <File Include="DWH_PEDIDOS_MODIFICAR.aspx">
+      <publishTime>03/16/2022 11:24:17</publishTime>
+    </File>
+    <File Include="DWH_PEDIDOS_MODIFICAR_SELECCIONA.aspx">
+      <publishTime>03/16/2022 11:18:33</publishTime>
+    </File>
+    <File Include="DWH_PEDIDOS_MODIFICAR_SELECCIONA_LOGISTICA.aspx">
+      <publishTime>03/16/2022 11:25:17</publishTime>
+    </File>
+    <File Include="DWH_UNIDADES.aspx">
+      <publishTime>03/16/2022 12:32:07</publishTime>
+    </File>
+    <File Include="DWH_USUARIOS.aspx">
+      <publishTime>03/16/2022 12:26:26</publishTime>
+    </File>
+    <File Include="imagenes/lpq.jpg">
+      <publishTime>03/13/2022 07:14:18</publishTime>
+    </File>
+    <File Include="imagenes/lpq2.jpg">
+      <publishTime>03/13/2022 07:14:18</publishTime>
+    </File>
+    <File Include="INICIO.aspx">
+      <publishTime>03/16/2022 12:37:15</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>03/18/2022 15:13:22</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/18/2022 15:08:34</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
